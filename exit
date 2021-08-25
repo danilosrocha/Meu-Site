@@ -1,0 +1,110 @@
+[33mcommit f1005772bfbdf298790760d5dd83adf0d0e07d66[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mteste[m[33m, [m[1;32mmaster[m[33m)[m
+Author: danilosrocha <danilosilvasrocha@gmail.com>
+Date:   Wed Aug 25 01:53:38 2021 -0300
+
+    Mudanças nos testemunhos, e em detalhes do site
+
+[33mcommit ee0e8829a1d882317ef0baf507c26f9ddad25abd[m
+Author: danilosrocha <danilosilvasrocha@gmail.com>
+Date:   Wed Aug 25 00:45:24 2021 -0300
+
+    Barra lateral colorida
+
+[33mcommit 82a31156bdcf5ae9880d81c24951ba378d635198[m
+Merge: a80307b 5dfef04
+Author: danilosrocha <danilosilvasrocha@gmail.com>
+Date:   Tue Aug 24 23:51:05 2021 -0300
+
+    Merge branch 'teste'
+
+[33mcommit 5dfef0441000645fbf15387127b666023947fcab[m
+Author: danilosrocha <danilosilvasrocha@gmail.com>
+Date:   Tue Aug 24 23:50:52 2021 -0300
+
+    Changes to the website portfolio
+
+[33mcommit a80307b60ab31bb018852c02ea352b27ea31400d[m
+Author: danilosrocha <danilosilvasrocha@gmail.com>
+Date:   Tue Aug 24 22:12:41 2021 -0300
+
+    Mudança no nome do site
+
+[33mcommit fce2a8535ec24f790ca17f941add7b5e0b71cad5[m
+Author: danilosrocha <danilosilvasrocha@gmail.com>
+Date:   Tue Aug 24 21:55:36 2021 -0300
+
+    Chang in Css file
+
+[33mcommit 382cb15c42ab9a467d8e48c6d2be867b2dfdb1b6[m
+Author: danilosrocha <danilosilvasrocha@gmail.com>
+Date:   Tue Aug 24 21:44:29 2021 -0300
+
+    tidying the background
+
+[33mcommit bc04f7fc011a975e407303fe9d34abd6979e3397[m
+Author: danilosrocha <danilosilvasrocha@gmail.com>
+Date:   Tue Aug 24 18:31:07 2021 -0300
+
+    little changes in web site
+
+[33mcommit 7853540a2ce2e954068465003be3820ede07c1d3[m
+Merge: de174bb 8cf1bf0
+Author: danilosrocha <danilosilvasrocha@gmail.com>
+Date:   Tue Aug 24 18:25:02 2021 -0300
+
+    Merge branch 'teste_1'
+
+[33mcommit 8cf1bf0a7e4bdaadf8c93cf8500103f31f602501[m
+Author: danilosrocha <danilosilvasrocha@gmail.com>
+Date:   Tue Aug 24 18:24:29 2021 -0300
+
+    Changes to the appearance and code of the web site
+
+[33mcommit de174bb68c1492a19bcdb6ba6c49600c9f366277[m
+Merge: cb12d33 b15834e
+Author: danilosrocha <danilosilvasrocha@gmail.com>
+Date:   Tue Aug 24 16:30:43 2021 -0300
+
+    Merge branch 'teste_1'
+
+[33mcommit b15834e1fbdd210ca8af445b8b2b8d91d7b0b3e8[m
+Author: danilosrocha <danilosilvasrocha@gmail.com>
+Date:   Tue Aug 24 16:29:38 2021 -0300
+
+    Changes in the web site apapearance
+
+[33mcommit cb12d33bd1d6c213a2b70d9435909426ef4310d8[m
+Author: Danilo da Silva Rocha <50452655+danilosrocha@users.noreply.github.com>
+Date:   Tue Aug 24 02:36:53 2021 -0300
+
+    Update Readme.txt
+
+[33mcommit 776780f30180023d1824d86fe24dae24883d0be0[m
+Author: danilosrocha <danilosilvasrocha@gmail.com>
+Date:   Tue Aug 24 02:30:29 2021 -0300
+
+    Modifications to the text of the website
+
+[33mcommit c0e99c39f4a5015ed20a5b4dec63f14354ad9d9d[m
+Author: danilosrocha <danilosilvasrocha@gmail.com>
+Date:   Tue Aug 24 01:36:39 2021 -0300
+
+    Atualização no Index.html
+
+[33mcommit ca8d0bc8b0dfe1dd1cf9d3961a7a0449cf779c11[m
+Author: danilosrocha <danilosilvasrocha@gmail.com>
+Date:   Tue Aug 24 01:20:21 2021 -0300
+
+    Foram adicionadas imagens ao site
+
+[33mcommit 815b1723e6b2860e0595e5b96e4e94d85bc7ec80[m
+Author: danilosrocha <danilosilvasrocha@gmail.com>
+Date:   Tue Aug 24 00:30:40 2021 -0300
+
+    Mudança na estruturo dos tópicos do site
+
+[33mcommit c20965ccac772cbf12cdd909bf2b8f314feee9c1[m
+Author: danilosrocha <danilosilvasrocha@gmail.com>
+Date:   Tue Aug 24 00:23:57 2021 -0300
+
+    Adicionando a base do site

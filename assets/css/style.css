@@ -120,7 +120,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background-color: #1f1f24;
+  
   position: fixed;
   top: 0;
   left: 0;
@@ -134,7 +134,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 992px) {
   #header {
     width: 300px;
-    background: #fff;
+    background: rgb(0, 0, 0);
     border-right: 1px solid #e6e9ec;
     left: -300px;
   }
@@ -204,17 +204,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active, .nav-menu .active:focus, .nav-menu li:hover > a {
-  color: rgb(0, 0, 0);
-  background: #ffffff;
+  color: rgb(255, 255, 255);
+  background: #242121;
 }
 
 .nav-menu a:hover span, .nav-menu .active span, .nav-menu .active:focus span, .nav-menu li:hover > a span {
-  color: rgb(5, 5, 5);
+  color: rgb(255, 255, 255);
 }
 
 .nav-menu a:hover, .nav-menu li:hover > a {
   width: 100%;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 .nav-menu a:hover span, .nav-menu li:hover > a span {
