@@ -11,6 +11,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
+  zoom: 0.9;
 }
 
 a {
@@ -37,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #100e9b;
+  background: #000000;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -152,6 +153,7 @@ h1, h2, h3, h4, h5, h6 {
 * Desktop Navigation 
 */
 .nav-menu {
+  
   padding: 0;
   display: block;
 }
@@ -347,7 +349,6 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  
   padding: 60px 0;
   overflow: hidden;
 }
@@ -727,7 +728,11 @@ section {
 # Portfolio Details
 --------------------------------------------------------------*/
 .portfolio-details {
-  padding-top: 40px;
+  zoom: 1;
+  padding-top: 150px;
+  padding-right: 120px;
+  background-color: rgb(240, 240, 240);
+  
 }
 
 .portfolio-details .portfolio-details-slider img {
